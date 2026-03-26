@@ -1,0 +1,45 @@
+============================================
+         AFTER TWEAK - READ THIS
+============================================
+
+1. Avoid GPU Driver Updates
+   Updating your NVIDIA or AMD drivers resets custom settings and removes tweaks.
+   Do NOT update your GPU driver without asking me first.
+
+2. No External Tweaks
+   Don't apply settings from YouTube, friends, or Discord.
+   They can undo/worse your optimization.
+
+3. Turn Off ALL Overlays
+   Discord, Overwolf, and any other overlay must be turned off.
+   Nothing should be running over your game.
+
+4. Delete What You Don't Use
+   Games, apps, files - if you don't use it, remove it.
+   The less junk on your PC the better.
+
+5. Run Clean.bat in your "After Tweak" Folder
+   Open your After Tweak folder and run the Clean file.
+   Do this regularly to keep your PC in shape.
+
+6. Clean Out Your Downloads Folder
+   Delete all setup and installer files in your Downloads folder.
+   They are useless after the program is already installed.
+
+7. Don't Modify the Setup
+   Don't disable startup files or change system settings manually.
+   The startup script applies key tweaks - leave it active.
+
+8. Allow Shader Cache Time
+   Games like Fortnite may have FPS drops during the first few matches.
+   This is completely normal and temporary.
+
+9. Having Issues? Contact Us
+   Crashes, stutters, or performance loss?
+   Reach out so we can fix it before it gets worse.
+
+============================================
+              NEED HELP?
+============================================
+
+https://discord.gg/jEAQmUgBAf
